@@ -31,3 +31,16 @@ npm run preview
 - Mock API data is in memory and resets on refresh.
 - Only two apps have distinct graph layouts; other app selections reuse the default graph shape.
 - The mock error switch is intentionally global so loading and error states are easy to verify during review.
+## Live Demo
+
+https://app-graph-builder-assignment.vercel.app
+## Features
+
+- Interactive React Flow canvas
+- Drag and drop nodes
+- Connect services with edges
+- Application search and filtering
+- Node inspector panel
+- Minimap and zoom controls
+- Dark theme UI
+- Loading and error states
